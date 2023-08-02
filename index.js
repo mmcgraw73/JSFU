@@ -29,5 +29,4 @@ const Dad = function (handle, kidCount) {
 let michael = new Dad('Supafly', 2)
 
 
-APP.innerHTML = `which dad? ${michael.handle} 
-how many kids? ${michael.kidCount}`
+APP.innerHTML = `which dad? ${michael.handle}`
